@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shcopickw.github.io/sitemap.html.gz
+Sitemap: https://shcopickw.github.io/app/sitemap.html.gz
+Sitemap: https://shcopickw.github.io/assets/sitemap.html.gz
+Sitemap: https://shcopickw.github.io/css/sitemap.html.gz
+Sitemap: https://shcopickw.github.io/includes/sitemap.html.gz
+Sitemap: https://shcopickw.github.io/item/sitemap.html.gz
+Sitemap: https://shcopickw.github.io/src/sitemap.html.gz
